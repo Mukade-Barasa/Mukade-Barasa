@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mukade-Barasa
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on projects and other learning opportunities
 - 📫 How to reach me mukadebarasa@gmail.com
